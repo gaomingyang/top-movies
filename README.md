@@ -15,8 +15,11 @@ This project is a frontend page for movie recommendations developed using Tailwi
 * Aesthetic page layout
 
 ### Screenshots
+**normal**  
+![screenshot](screenshot.jpg)  
 
-![screenshot](screenshot.jpg)
+**small screen**
+<img src="screenshot2.jpg" style="width:400px;">
 
 Thank you for visiting! 🚀
 
